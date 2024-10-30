@@ -1,0 +1,7 @@
+Flask
+flask-cors
+vaderSentiment
+pandas
+scikit-learn
+playsound
+numpy

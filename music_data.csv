@@ -1,0 +1,10 @@
+title,file_path,mood,feature1,feature2,feature3
+calm-acoustic-quiet-quest,D:\ML_files\calm-acoustic-quiet-quest-251658.mp3,relaxation,1,0,0
+fun-piano,D:\ML_files\fun-piano-bgm-242448.mp3,fun,0,1,0
+inspiring-motivation,D:\ML_files\inspiring-motivation-music-250532.mp3,motivation,0,0,1
+fun-day,D:\ML_files\fun-day-150602.mp3,fun,0,1,0
+calm-mind,D:\ML_files\please-calm-my-mind-125566.mp3,relaxation,1,0,0
+the-cradle-of-soul,D:\ML_files\the-cradle-of-your-soul-15700.mp3,relaxation,1,0,0
+uplifting-motivation,D:\ML_files\ML_modified\uplifting-motivation-187229.mp3,motivation,0,0,1
+happy-rock,D:\ML_files\happy-rock-165132.mp3,fun,0,1,0
+
