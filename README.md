@@ -63,7 +63,7 @@ Follow these steps to set up **SERENE-AI** on your local machine or server:
 Start by cloning the repository to your local machine or cloud server.
 
 ```bash
-git clone https://github.com/yourusername/SERENE-AI.git
+git clone https://github.com/srikxcipher/SERENE-AI.git
 cd SERENE-AI
 ```
 ### 2\. Install Required Python Packages
